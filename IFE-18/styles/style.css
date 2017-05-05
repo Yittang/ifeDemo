@@ -1,0 +1,31 @@
+#text {
+	box-shadow: 2px 2px #333;
+}
+
+#leftIn,
+#rightIn,
+#leftOut,
+#rightOut {
+	border-radius: 5px;
+	background-color: #fff;
+	font-size: 12px;
+	font-family: "Microsoft Yahei", sans-serif;
+	font-weight: 400;
+}
+
+#leftOut {
+	margin-left: 30px;
+}
+
+#queue {
+	margin-top: 20px;
+}
+
+#queue b {
+	background-color: red;
+	color: #fff;
+	font-size: 14px;
+	margin-right: 10px;
+	padding: 10px;
+	cursor: pointer;
+}
